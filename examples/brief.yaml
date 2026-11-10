@@ -1,0 +1,42 @@
+# New products from a supplier, as the shop owner writes them down.
+# The pipeline turns this into a priced, described, translated import file.
+
+shop:
+  name: Bean & Burr
+  tone: >
+    Friendly and practical, like a barista explaining it at the counter.
+    No exaggerated claims ("best", "perfect", "guaranteed").
+
+languages: [en, ro, de]
+
+products:
+  - name: Ceramic Pour-over Dripper
+    category: Brewing gear
+    cost_eur: 9.40
+    stock: 40
+    facts: "Ceramic, size 02, fits 1-4 cups, uses cone filters"
+  - name: Glass Server 600ml
+    category: Brewing gear
+    cost_eur: 8.10
+    stock: 35
+    facts: "Borosilicate glass, 600 ml, marked in 100 ml steps"
+  - name: Kenya Kiambu 250g
+    category: Coffee beans
+    cost_eur: 6.20
+    stock: 120
+    facts: "Washed, light roast, notes of blackcurrant and grapefruit"
+  - name: Peru Cajamarca 250g
+    category: Coffee beans
+    cost_eur: 5.10
+    stock: 120
+    facts: "Washed, medium roast, notes of cocoa and caramel"
+  - name: Bamboo Filter Holder
+    category: Accessories
+    cost_eur: 3.20
+    stock: 60
+    facts: "Bamboo, holds up to 100 cone filters"
+  - name: Cleaning Brush Set
+    category: Accessories
+    cost_eur: 2.40
+    stock: 80
+    facts: "Two brushes, for grinders and portafilters"

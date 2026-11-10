@@ -1,0 +1,26 @@
+{
+  "describe": [
+    {"sku": "GEAR-001", "description": "A size 02 ceramic dripper for one to four cups. Ceramic holds heat well, so your brew stays even from first pour to last. Uses standard cone filters."},
+    {"sku": "GEAR-002", "description": "A 600 ml borosilicate glass server with 100 ml markings, so you can see exactly how much you've brewed. Pairs with any size 02 dripper."},
+    {"sku": "BEAN-001", "description": "A washed, light-roast Kenyan coffee from Kiambu. Bright and juicy, with notes of blackcurrant and grapefruit. Great as pour-over."},
+    {"sku": "BEAN-002", "description": "A washed, medium-roast coffee from Cajamarca, Peru. Smooth and sweet, with notes of cocoa and caramel. Easy to enjoy any time of day."},
+    {"sku": "ACC-001", "description": "A bamboo holder that keeps up to 100 cone filters tidy and within reach next to your brewer."},
+    {"sku": "ACC-002", "description": "Two brushes for clearing coffee grounds from grinders and portafilters. A quick sweep after each use keeps your gear clean."}
+  ],
+  "translate_ro": [
+    {"sku": "GEAR-001", "description": "Dripper ceramic mărimea 02, pentru una până la patru cești. Ceramica păstrează bine căldura, așa că extracția rămâne uniformă de la prima la ultima turnare. Folosește filtre conice standard."},
+    {"sku": "GEAR-002", "description": "Carafă din sticlă borosilicată de 600 ml, cu gradații la fiecare 100 ml, ca să vezi exact cât ai preparat. Se potrivește cu orice dripper mărimea 02."},
+    {"sku": "BEAN-001", "description": "Cafea kenyană spălată, cu prăjire light, din Kiambu. Vie și suculentă, cu note de coacăze negre și grapefruit. Excelentă la pour-over."},
+    {"sku": "BEAN-002", "description": "Cafea spălată, cu prăjire medie, din Cajamarca, Peru. Fină și dulce, cu note de cacao și caramel. Bună în orice moment al zilei."},
+    {"sku": "ACC-001", "description": "Suport din bambus care ține ordonate până la 100 de filtre conice, la îndemână lângă aparatul tău."},
+    {"sku": "ACC-002", "description": "Două perii pentru curățarea zațului din râșnițe și portafiltre. O trecere rapidă după fiecare folosire îți păstrează ustensilele curate."}
+  ],
+  "translate_de": [
+    {"sku": "GEAR-001", "description": "Keramik-Handfilter in Größe 02 für eine bis vier Tassen. Keramik hält die Wärme gut, damit dein Kaffee vom ersten bis zum letzten Aufguss gleichmäßig gelingt. Für handelsübliche Kegelfilter."},
+    {"sku": "GEAR-002", "description": "Kanne aus Borosilikatglas mit 600 ml und 100-ml-Markierungen, damit du genau siehst, wie viel du gebrüht hast. Passt zu jedem Handfilter in Größe 02."},
+    {"sku": "BEAN-001", "description": "Gewaschener, hell gerösteter Kaffee aus Kiambu, Kenia. Lebendig und saftig, mit Noten von schwarzer Johannisbeere und Grapefruit. Ideal für Pour-over."},
+    {"sku": "BEAN-002", "description": "Gewaschener, mittel gerösteter Kaffee aus Cajamarca, Peru. Weich und süß, mit Noten von Kakao und Karamell. Passt zu jeder Tageszeit."},
+    {"sku": "ACC-001", "description": "Ein Halter aus Bambus, der bis zu 100 Kegelfilter ordentlich und griffbereit neben deinem Brühgerät aufbewahrt."},
+    {"sku": "ACC-002", "description": "Zwei Bürsten, um Kaffeereste aus Mühlen und Siebträgern zu entfernen. Kurz nach jeder Nutzung durchgebürstet, bleibt dein Zubehör sauber."}
+  ]
+}
